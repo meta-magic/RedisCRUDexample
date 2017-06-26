@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="lib/jackson-core-asl-1.9.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jackson-mapper-asl-1.9.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jedis-2.1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-pool-1.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-logging-1.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/spring-asm-3.1.1.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/spring-beans-3.1.1.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/spring-context-3.1.1.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/spring-core-3.1.1.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/spring-expression-3.1.1.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/spring-tx-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-data-redis-1.0.1.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
